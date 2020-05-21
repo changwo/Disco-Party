@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/disco/static/css/main.11474aeb.chunk.css",
-    "main.js": "/disco/static/js/main.4850fd44.chunk.js",
-    "main.js.map": "/disco/static/js/main.4850fd44.chunk.js.map",
-    "runtime-main.js": "/disco/static/js/runtime-main.4228ff5e.js",
-    "runtime-main.js.map": "/disco/static/js/runtime-main.4228ff5e.js.map",
-    "static/js/2.c2a508ee.chunk.js": "/disco/static/js/2.c2a508ee.chunk.js",
-    "static/js/2.c2a508ee.chunk.js.map": "/disco/static/js/2.c2a508ee.chunk.js.map",
-    "index.html": "/disco/index.html",
-    "precache-manifest.dacf0ebc11fa639c0f17aaf352c8ea30.js": "/disco/precache-manifest.dacf0ebc11fa639c0f17aaf352c8ea30.js",
-    "service-worker.js": "/disco/service-worker.js",
-    "static/css/main.11474aeb.chunk.css.map": "/disco/static/css/main.11474aeb.chunk.css.map",
-    "static/js/2.c2a508ee.chunk.js.LICENSE.txt": "/disco/static/js/2.c2a508ee.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/disco/static/media/squidward.33b17aad.png"
+    "main.css": "/disco-party/static/css/main.c3d16216.chunk.css",
+    "main.js": "/disco-party/static/js/main.f0332a50.chunk.js",
+    "main.js.map": "/disco-party/static/js/main.f0332a50.chunk.js.map",
+    "runtime-main.js": "/disco-party/static/js/runtime-main.c9c66cb0.js",
+    "runtime-main.js.map": "/disco-party/static/js/runtime-main.c9c66cb0.js.map",
+    "static/js/2.c2a508ee.chunk.js": "/disco-party/static/js/2.c2a508ee.chunk.js",
+    "static/js/2.c2a508ee.chunk.js.map": "/disco-party/static/js/2.c2a508ee.chunk.js.map",
+    "index.html": "/disco-party/index.html",
+    "precache-manifest.06fdd1e12ac7f64f83fdc6b27f3dcd5b.js": "/disco-party/precache-manifest.06fdd1e12ac7f64f83fdc6b27f3dcd5b.js",
+    "service-worker.js": "/disco-party/service-worker.js",
+    "static/css/main.c3d16216.chunk.css.map": "/disco-party/static/css/main.c3d16216.chunk.css.map",
+    "static/js/2.c2a508ee.chunk.js.LICENSE.txt": "/disco-party/static/js/2.c2a508ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/disco-party/static/media/squidward.33b17aad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4228ff5e.js",
+    "static/js/runtime-main.c9c66cb0.js",
     "static/js/2.c2a508ee.chunk.js",
-    "static/css/main.11474aeb.chunk.css",
-    "static/js/main.4850fd44.chunk.js"
+    "static/css/main.c3d16216.chunk.css",
+    "static/js/main.f0332a50.chunk.js"
   ]
 }

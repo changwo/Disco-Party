@@ -1,0 +1,5 @@
+.CellBox-Container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}

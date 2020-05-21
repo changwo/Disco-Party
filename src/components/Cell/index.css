@@ -1,0 +1,31 @@
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(10, 120, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    border-radius: 30%;
+    animation: App-logo-spin infinite 1s linear; 
+}
+
+.player {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    background-image: url(../../assets/squidward.png);
+    background-size: 100% 100%;
+    animation: App-logo-spin infinite 5s linear; 
+
+}
+.active {
+    background-color: brown;
+    border-radius: 40%;
+    animation: App-logo-spin infinite 2s linear; 
+}
